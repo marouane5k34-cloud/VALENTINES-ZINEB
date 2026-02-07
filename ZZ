@@ -73,7 +73,7 @@
         function answer(choice) {
             const response = document.getElementById('response');
             if (choice === 'yes') {
-                response.innerHTML = "Yay! I love you endlessly! Here's a virtual hug: 🤗";
+                response.innerHTML = "Yay! I love you endlessly! Here's a virtual hug: 🤗 KANMOT 3LIK MUAHH ";
             } else {
                 response.innerHTML = "Aww, but I'll keep trying! You're still my favorite. 😉";
             }
